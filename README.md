@@ -18,3 +18,7 @@ In this way, all these technologies will be used together to ensure a smooth and
 - openCV
 - oneAPI/oneVPL
 - SUSE Linux
+
+![image](https://github.com/cabelo/fitassist/assets/675645/6a5ef559-2f2c-417c-b215-58dd8e6cb7d2)
+
+https://www.youtube.com/watch?v=KnanTMp4eKA
