@@ -19,6 +19,5 @@ In this way, all these technologies will be used together to ensure a smooth and
 - oneAPI/oneVPL
 - SUSE Linux
 
-![image](https://github.com/cabelo/fitassist/assets/675645/6a5ef559-2f2c-417c-b215-58dd8e6cb7d2)
-![image](https://github.com/cabelo/fitassist/assets/675645/42fedf0e-7d4f-444a-91ae-f372d60b5a00)
+[![image](https://github.com/cabelo/fitassist/assets/675645/63a50161-a882-4015-a25e-cf7fa3966fef)](https://www.youtube.com/watch?v=KnanTMp4eKA)
 
