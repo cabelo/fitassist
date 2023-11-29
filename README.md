@@ -1,3 +1,5 @@
+![image](https://github.com/cabelo/fitassist/assets/675645/341396d6-7259-4035-969a-0241534a706d)
+
 # fitassist
 
 Given that an instructor cannot supervise all students simultaneously, this system allows the instructor to receive alerts when students do not correctly complete the sequence of physical exercises.
